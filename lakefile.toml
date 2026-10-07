@@ -1,4 +1,4 @@
-name = "jsp-000290-lean"
+name = "jsp-000140-lean"
 version = "0.1.0"
 defaultTargets = ["Jsp"]
 
